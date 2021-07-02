@@ -137,7 +137,7 @@ public class PComposite {
     
     public void Principal()
     {
-        System.out.println("Ingrese el tipo de hamburguesa:");
+        System.out.println("Ingrese el tipo de hamburguesa o para salir:");
         System.out.println("1.- Para Simple: ");
         System.out.println("2.- Para Doble: ");
         System.out.println("3.- Para Queso: ");
